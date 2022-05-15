@@ -4,7 +4,7 @@
 This Project was done as a part of Udemy JavaScript Course
 Made in JavaScript while learning . November/2021
 ---------------------------
-The HTML and Css was provided 
+The HTML and CSS was provided 
 
 The idea of the game is to guess the random generated number between 1-20 .
 Every Guess we will get a hint if the number is higer or lower to the current number that we are guessing .

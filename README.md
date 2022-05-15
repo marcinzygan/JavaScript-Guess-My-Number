@@ -18,7 +18,7 @@ Features Implemented :
 - Change Background color green if the number entered matches the random number , display winning message 
 - Clear iput fields after each guess
 
-# This project is Live <a href="https://js-countdown-time.netlify.app">Here</a> ! Enjoy .
+# This project is Live <a href="https://javascript-number-guess.netlify.app">Here</a> ! Enjoy .
 
 - Have a nice day 🌞
 
